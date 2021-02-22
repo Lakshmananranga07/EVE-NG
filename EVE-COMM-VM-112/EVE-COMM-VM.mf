@@ -1,1 +1,0 @@
-SHA1(EVE-COMM-VM-0.vmdk)= 8b46d76453e82b41f0671be8c21f1beac3fde4a5
